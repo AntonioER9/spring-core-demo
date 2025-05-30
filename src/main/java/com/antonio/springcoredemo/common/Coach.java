@@ -1,4 +1,4 @@
-package com.antonio.springcoredemo;
+package com.antonio.springcoredemo.common;
 
 public interface Coach {
 

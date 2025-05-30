@@ -1,4 +1,4 @@
-package com.antonio.springcoredemo;
+package com.antonio.springcoredemo.common;
 
 import org.springframework.stereotype.Component;
 
@@ -8,6 +8,6 @@ public class CricketCoach implements Coach {
 
     @Override
     public String getDailyWorkout() {
-        return "Practice for Cricket Coach";
+        return "Practice for Cricket Coach!!";
     }
 }
